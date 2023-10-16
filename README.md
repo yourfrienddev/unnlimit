@@ -1,16 +1,8 @@
-# unnlimit
+# Problem Statement
+1.    Write a single-screen mobile application that:
+2.    Every minute takes a joke from an open API (https://geek-jokes.sameerkumar.website/api?format=json)
+3.    Adds it (the joke) at the end of the list
+4.    Maximum of 10 jokes on the list
+5.    The new jokes replace old ones
+6.    When you open the app again, all old jokes should be displayed
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
